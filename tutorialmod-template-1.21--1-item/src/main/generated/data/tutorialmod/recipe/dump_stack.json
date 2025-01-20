@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tutorialmod:little_dough"
+    },
+    "+": {
+      "item": "tutorialmod:rolling_pin"
+    }
+  },
+  "pattern": [
+    "###",
+    "#+#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "tutorialmod:dumpling_wrapper"
+  }
+}

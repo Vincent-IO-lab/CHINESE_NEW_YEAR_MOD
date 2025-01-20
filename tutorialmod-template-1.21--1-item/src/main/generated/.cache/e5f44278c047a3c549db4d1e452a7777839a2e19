@@ -1,0 +1,4 @@
+// 1.21	2025-01-19T16:18:53.2057305	TutorialMod/Tags for minecraft:block
+ec2e6b9c0395293b3971d6482c4d15ea01f73fe9 data\minecraft\tags\block\mineable\shovel.json
+3fc1f25757baead247e6115d17173630dafad7c8 data\minecraft\tags\block\mineable\pickaxe.json
+3fc1f25757baead247e6115d17173630dafad7c8 data\minecraft\tags\block\needs_stone_tool.json

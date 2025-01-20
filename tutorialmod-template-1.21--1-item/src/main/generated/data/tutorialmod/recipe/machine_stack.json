@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "+": {
+      "item": "minecraft:stick"
+    },
+    "-": {
+      "item": "minecraft:stone_pickaxe"
+    }
+  },
+  "pattern": [
+    "###",
+    " -+",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:polishing_machine"
+  }
+}

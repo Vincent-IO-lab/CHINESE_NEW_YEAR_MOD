@@ -1,0 +1,14 @@
+{
+  "cracker_sound": {
+    "subtitle": "sounds.tutorialmod.cracker_sound",
+    "sounds": [
+      "tutorialmod:cracker_sound"
+    ]
+  },
+  "throwing": {
+    "subtitle": "sounds.tutorialmod.throwing",
+    "sounds": [
+      "tutorialmod:throwing"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tutorialmod:dumpling_wrapper"
+    },
+    "=": {
+      "item": "tutorialmod:three_fresh_stuff"
+    }
+  },
+  "pattern": [
+    "###",
+    "#=#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:raw_three_three_fresh_stuffed_dumpling"
+  }
+}

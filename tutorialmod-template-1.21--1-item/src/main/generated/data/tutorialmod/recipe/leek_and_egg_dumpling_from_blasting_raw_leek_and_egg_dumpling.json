@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 600,
+  "experience": 0.7,
+  "group": "leek_and_egg_stuffed_dumpling",
+  "ingredient": {
+    "item": "tutorialmod:raw_leek_and_egg_dumpling"
+  },
+  "result": {
+    "id": "tutorialmod:leek_and_egg_dumpling"
+  }
+}

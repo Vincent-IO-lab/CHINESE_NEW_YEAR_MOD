@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "tutorialmod:dumpling_wrapper"
+    },
+    "=": {
+      "item": "tutorialmod:pork_and_scallion_stuff"
+    }
+  },
+  "pattern": [
+    "###",
+    "#=#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:raw_dumpling"
+  }
+}

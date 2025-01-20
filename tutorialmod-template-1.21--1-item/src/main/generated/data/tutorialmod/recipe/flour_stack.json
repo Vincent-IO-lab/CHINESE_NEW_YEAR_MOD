@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorialmod:flour"
+    },
+    {
+      "item": "tutorialmod:flour"
+    },
+    {
+      "item": "tutorialmod:flour"
+    },
+    {
+      "item": "tutorialmod:flour"
+    },
+    {
+      "item": "tutorialmod:flour"
+    },
+    {
+      "item": "tutorialmod:flour"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:flour_stack"
+  }
+}

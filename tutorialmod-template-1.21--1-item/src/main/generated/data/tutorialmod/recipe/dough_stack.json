@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "tutorialmod:flour"
+    },
+    "=": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "###",
+    "#=#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:dough"
+  }
+}

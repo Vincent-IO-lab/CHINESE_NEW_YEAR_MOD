@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "tutorialmod:flour_miller_point_of_interest",
+      "required": false
+    },
+    {
+      "id": "tutorialmod:fortune_giver_point_of_interest",
+      "required": false
+    }
+  ]
+}
